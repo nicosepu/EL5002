@@ -9,3 +9,5 @@ Camilo Saldaña, Jefe de proyecto, +56998214820, cjse1994@gmail.com
 Constantino Hernandez, Encargado de Desarrollo de Software, +56974081935, cihg94@gmail.com
 
 Felipe Poblete, Equipo de diseño, +56999619643, pipe.spate@gmail.com
+
+Felipe Poblete, Encargado de desarrollo de Hardware, +56957817333, oscarlo.pimentel@gmail.com
