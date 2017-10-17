@@ -10,4 +10,4 @@ Constantino Hernandez, Encargado de Desarrollo de Software, +56974081935, cihg94
 
 Felipe Poblete, Equipo de diseño, +56999619643, pipe.spate@gmail.com
 
-Felipe Poblete, Encargado de desarrollo de Hardware, +56957817333, oscarlo.pimentel@gmail.com
+Óscar Pimentel, Encargado de desarrollo de Hardware, +56957817333, oscarlo.pimentel@gmail.com
