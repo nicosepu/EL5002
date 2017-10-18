@@ -20,3 +20,5 @@ Pablo Morales, Equipo de diseño, +56984346301, pablo.morales@ug.uchile.cl
 Juan Arias   , Equipo de diseño, +56974500442,jear.arias@gmail.com
 
 Juan Millan, Encargado de desarrollo industrial, +56982337616 , jjmillancas@gmail.com
+
+Pablo Loza, Equipo de diseño, +56977992752, loza15_uc@live.com
