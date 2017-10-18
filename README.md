@@ -1,4 +1,4 @@
-# EL5002
+﻿# EL5002
 Intro taller de diseño
 Andres Thomas, Encargado Repositorio, +569-82383659, andres.thomas@ug.uchile.cl
 
@@ -13,3 +13,5 @@ Felipe Poblete, Equipo de diseño, +56999619643, pipe.spate@gmail.com
 Óscar Pimentel, Encargado de desarrollo de Hardware, +56957817333, oscarlo.pimentel@gmail.com
 
 Eduardo Barría, Encargado de pruebas industriales, +56973707434, eduardo.barria.becerra@gmail.com
+
+Pablo Morales, Equipo de diseño, +56984346301, pablo.morales@ug.uchile.cl
