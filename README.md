@@ -16,3 +16,4 @@ Felipe Poblete, Equipo de diseño, +56999619643, pipe.spate@gmail.com
 Eduardo Barría, Encargado de pruebas industriales, +56973707434, eduardo.barria.becerra@gmail.com
 
 Pablo Morales, Equipo de diseño, +56984346301, pablo.morales@ug.uchile.cl
+Juan Arias   , Equipo de diseño, +56974500442,jear.arias@gmail.com
