@@ -18,3 +18,5 @@ Eduardo Barría, Encargado de pruebas industriales, +56973707434, eduardo.barria
 Pablo Morales, Equipo de diseño, +56984346301, pablo.morales@ug.uchile.cl
 
 Juan Arias   , Equipo de diseño, +56974500442,jear.arias@gmail.com
+
+Juan Millan, Encargado de desarrollo industrial, +56982337616 , jjmillancas@gmail.com
