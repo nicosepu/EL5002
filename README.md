@@ -22,3 +22,5 @@ Juan Arias   , Equipo de diseño, +56974500442,jear.arias@gmail.com
 Juan Millan, Encargado de desarrollo industrial, +56982337616 , jjmillancas@gmail.com
 
 Pablo Loza, Equipo de diseño, +56977992752, loza15_uc@live.com
+
+Nicolás Sepúlveda, Director de ciencias, +56965991401, nicolas.sepulveda.1@ug.uchile.cl
